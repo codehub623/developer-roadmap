@@ -1,4 +1,3 @@
-
 ![Web Developer Roadmap - 2021](https://i.imgur.com/4u3LK4j.png)
 
 > Roadmap to becoming a web developer in 2021
